@@ -1,0 +1,17 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+        }
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: rgb(197, 208, 197);
+}
